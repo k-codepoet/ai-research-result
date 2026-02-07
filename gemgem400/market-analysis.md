@@ -109,22 +109,22 @@ mindmap
 
 ```mermaid
 quadrantChart
-    title SWOT 분석
-    x-axis 내부 요인 --> 외부 요인
-    y-axis 부정적 --> 긍정적
-    quadrant-1 기회 (O)
-    quadrant-2 강점 (S)
-    quadrant-3 약점 (W)
-    quadrant-4 위협 (T)
-    "임상 검증": [0.3, 0.8]
-    "장비 불필요": [0.2, 0.7]
-    "아동 친화 UX": [0.35, 0.65]
-    "법인정보 불투명": [0.25, 0.3]
-    "브랜드 인지도 낮음": [0.4, 0.25]
-    "비대면 수요 증가": [0.7, 0.85]
-    "정부 지원 확대": [0.8, 0.75]
-    "글로벌 경쟁사": [0.75, 0.2]
-    "대형사 진입 가능": [0.65, 0.35]
+    title SWOT Analysis
+    x-axis "Internal" --> "External"
+    y-axis "Negative" --> "Positive"
+    quadrant-1 "Opportunities (O)"
+    quadrant-2 "Strengths (S)"
+    quadrant-3 "Weaknesses (W)"
+    quadrant-4 "Threats (T)"
+    "Clinical Validation": [0.3, 0.8]
+    "No Equipment Needed": [0.2, 0.7]
+    "Child-friendly UX": [0.35, 0.65]
+    "Opaque Corp Info": [0.25, 0.3]
+    "Low Brand Awareness": [0.4, 0.25]
+    "Remote Care Demand": [0.7, 0.85]
+    "Gov Support Growth": [0.8, 0.75]
+    "Global Competitors": [0.75, 0.2]
+    "BigTech Entry Risk": [0.65, 0.35]
 ```
 
 ### 상세 SWOT

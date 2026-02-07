@@ -158,18 +158,18 @@ graph TB
 
 ```mermaid
 quadrantChart
-    title 경쟁사 포지셔닝 (가격 vs 접근성)
-    x-axis 낮은 접근성 --> 높은 접근성
-    y-axis 저가 --> 고가
-    quadrant-1 프리미엄 B2C
-    quadrant-2 프리미엄 B2B
-    quadrant-3 매스마켓
-    quadrant-4 저가 B2B
-    "큐렉소": [0.2, 0.95]
-    "네오펙트": [0.35, 0.7]
+    title Competitor Positioning (Price vs Accessibility)
+    x-axis "Low Accessibility" --> "High Accessibility"
+    y-axis "Low Price" --> "High Price"
+    quadrant-1 "Premium B2C"
+    quadrant-2 "Premium B2B"
+    quadrant-3 "Mass Market"
+    quadrant-4 "Low-cost B2B"
+    "Curexo": [0.2, 0.95]
+    "Neofect": [0.35, 0.7]
     "AiTreat": [0.25, 0.8]
     "WonderTree": [0.8, 0.3]
-    "잼잼400": [0.75, 0.35]
+    "GemGem400": [0.75, 0.35]
 ```
 
 ## 경쟁 우위 분석
