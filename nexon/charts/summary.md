@@ -85,8 +85,34 @@ AI 인재 확보   CS 자동화      B2B 모델 검증  신규 IP
 
 | 항목 | 현재 | 3년 후 목표 | 5년 후 목표 |
 |------|------|------------|------------|
-| AI 인력 | ~100명 | 300명+ | 500명+ |
-| AI 투자 | 200억 | 800억/년 | 1,000억/년 |
-| 영업이익률 | 25% | 30% | 35% |
-| AI 매출 기여 | 0% | 10% | 20%+ |
-| B2B 매출 | 0 | 파일럿 | 500억+ |
+| AI 인력 | [출처 필요] | 300명+ | 500명+ |
+| AI 투자 | [출처 필요] | 800억/년 | 1,000억/년 |
+| 영업이익률 | ~33% (2021)[1] | 35%+ | 38%+ |
+| AI 매출 기여 | [출처 필요] | 10% | 20%+ |
+| B2B 매출 | 0 | 파일럿 | [목표치 추정 필요] |
+
+**참고**: 
+- 현재 AI 인력, AI 투자, AI 매출 기여 등은 넥슨 공식 발표 데이터가 없어 확인 불가
+- 3년/5년 후 목표치는 산업 벤치마크 기반 권고 수치이며, 넥슨 공식 목표가 아님
+- 영업이익률 2021년 기준: ¥91.5B / ¥274.5B ≈ 33%[1]
+
+## 시장 규모 요약
+
+| 항목 | 수치 | 출처 |
+|------|------|------|
+| 글로벌 게임 시장 (2024) | $269-299B | [2][3] |
+| 모바일 게임 점유율 | 49% | [2] |
+| 클라우드 게이밍 CAGR | 34% | [2] |
+| 아시아태평양 점유율 | 46-49% | [2][3] |
+| 넥슨 시가총액 | $18.26B | [4] |
+| 팔란티어 시가총액 | $323.9B | [5] |
+
+## 출처
+[1] Wikipedia, "Nexon", https://en.wikipedia.org/wiki/Nexon - 2021년 매출 ¥274.5B, 영업이익 ¥91.5B
+[2] Mordor Intelligence, "Gaming Market Size, Share, Growth, Trends & Industry Analysis 2030", https://www.mordorintelligence.com/industry-reports/global-gaming-market - 2025년 시장 $269B, 모바일 49%, 아시아태평양 46%, 클라우드 34% CAGR
+[3] Grand View Research, "Video Game Market Size, Share And Growth Report, 2030", https://www.grandviewresearch.com/industry-analysis/video-game-market - 2024년 시장 $298.98B, 아시아태평양 49%+
+[4] CompaniesMarketCap, "Nexon Market Cap", https://companiesmarketcap.com/nexon/marketcap/ - 2026년 2월 기준
+[5] CompaniesMarketCap, "Palantir Market Cap", https://companiesmarketcap.com/palantir/marketcap/ - 2026년 2월 기준
+
+---
+**면책 조항**: 목표 수치는 산업 벤치마크 기반 권고치이며 넥슨 공식 목표가 아닙니다.

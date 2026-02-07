@@ -23,6 +23,8 @@
 | 2026 | $58B | 23% |
 | 2030 | $100B+ | CAGR 20%+ |
 
+*참고: 위 UGC 게이밍 시장 규모는 업계 추정치이며 단일 공식 출처 없음 [출처 필요]*
+
 **핵심 성장 동인**:
 - Z세대/알파 세대의 참여형 콘텐츠 선호
 - 크리에이터 이코노미 확대
@@ -55,12 +57,13 @@
 
 | 항목 | 수치 |
 |------|------|
-| DAU | 70M+ |
-| MAU | 200M+ |
-| 시가총액 | $25-40B |
-| 2024 매출 | $3.5B+ |
-| 크리에이터 수 | 4M+ |
-| 경험(게임) 수 | 40M+ |
+| DAU | 88.9M (Q3 2024), 151.5M (Q3 2025)[1] |
+| MAU | 380M (2024)[1] |
+| 시가총액 | $52.43B (2026년 1월)[1] |
+| 2024 매출 | $3.6B+[1] |
+| 크리에이터 수 | 3.5M+[1] |
+| 경험(게임) 수 | 6.7M+ 활성[1] |
+| 크리에이터 지급 (2024) | $922.82M[1] |
 
 **비즈니스 모델**:
 ```
@@ -77,10 +80,10 @@ Robux 판매 ────────────► 70% (인게임 구매)
 
 | 항목 | 수치 |
 |------|------|
-| 월간 플레이어 | 100M+ (전체) |
-| UGC 사용률 | 40%+ |
-| UEFN 크리에이터 | 500K+ |
-| 크리에이터 지급 | $100M+/년 |
+| 월간 플레이어 | 125M+ (2018년 6월까지)[2], $9B 총 매출 (2019년까지)[2] |
+| UEFN 크리에이터 지급 | $320M+ (첫 해), 20,000+ 개발자[3] |
+| 크리에이터 수익 배분 | 40% (Island Creator 프로그램)[3] |
+| Epic Games 밸류에이션 | $32B (2022년 4월)[4] |
 
 **강점**: 언리얼 엔진, 고품질 그래픽, IP 콜라보
 **약점**: 배틀로얄 중심 이미지, 진입 장벽
@@ -89,9 +92,9 @@ Robux 판매 ────────────► 70% (인게임 구매)
 
 | 항목 | 수치 |
 |------|------|
-| MAU | 170M+ |
-| 판매량 | 300M+ (역대) |
-| 마켓플레이스 매출 | $500M+/년 |
+| MAU | 170M+[5] |
+| 판매량 | 350M+ (역대)[5] |
+| 마켓플레이스 매출 | $500M+/년 (2022년까지)[5] |
 
 **강점**: 레고 블록 자유도, 교육 시장, 롱런
 **약점**: UGC 플랫폼보다는 게임 + 모드
@@ -124,14 +127,14 @@ Robux 판매 ────────────► 70% (인게임 구매)
 
 ```
 TAM (Total Addressable Market)
-└── 글로벌 UGC 게이밍: $50B+
+└── 글로벌 UGC 게이밍 [출처 필요]
 
 SAM (Serviceable Addressable Market)  
-└── 아시아 UGC + 2D 특화: $8-10B
+└── 아시아 UGC + 2D 특화 [출처 필요]
 
 SOM (Serviceable Obtainable Market)
 └── 메이플 IP 레버리지: $500M - $1.5B
-    (3-5년 목표)
+    (3-5년 목표) [내부 추정]
 ```
 
 ### 3.3 시장 점유율 예측
@@ -144,6 +147,8 @@ SOM (Serviceable Obtainable Market)
 | 2028 | $80B | $400M | 0.5% |
 | 2030 | $100B | $800M | 0.8% |
 
+*위 수치는 내부 추정치임*
+
 **목표**: 틈새 시장(2D/아시아/IP팬덤)에서 3-5% 점유
 
 ## 4. 경쟁 우위 분석
@@ -154,7 +159,7 @@ SOM (Serviceable Obtainable Market)
 |------|---------|-----------|-----------|
 | 그래픽 스타일 | 3D 블록 | 3D 카툰 | **2D 픽셀** |
 | IP 자산 | 없음 | 콜라보 | **오리지널** |
-| 타겟 연령 | 8-16 | 13-25 | **18-35** |
+| 타겟 연령 | 8-16 (56% 16세 미만)[1] | 13-25 | **18-35** |
 | 지역 강점 | 글로벌 | 글로벌 | **아시아** |
 | 노스탤지어 | 없음 | 약함 | **강함** |
 
@@ -245,3 +250,15 @@ SOM (Serviceable Obtainable Market)
 | 수익 | 크리에이터 지급 | $30M | $120M |
 | 참여 | 세션 시간 | 45분 | 60분 |
 | 참여 | D7 리텐션 | 25% | 35% |
+
+## 출처
+
+[1] Backlinko, "Roblox User and Growth Stats" (2026년 1월 업데이트) - Q3 2024 DAU 88.9M, Q3 2025 DAU 151.5M, 2024 MAU 380M, 시가총액 $52.43B (2026.1월), 크리에이터 3.5M, 활성 경험 6.7M, 2024년 크리에이터 지급 $922.82M, 56% 유저 16세 미만. https://backlinko.com/roblox-users
+
+[2] Wikipedia, "Fortnite" - By June 2018 reached 125 million players. Total revenue for Fortnite reached more than $9 billion by the end of 2019. https://en.wikipedia.org/wiki/Fortnite
+
+[3] Wikipedia, "Unreal Editor for Fortnite" - In the first year of UEFN's beta phase, the Island Creator program has paid an estimated $320 million to over 20,000 developers. https://en.wikipedia.org/wiki/Unreal_Editor_for_Fortnite
+
+[4] Wikipedia, "Epic Games" - As of April 2022, the company has a US$32 billion equity valuation. https://en.wikipedia.org/wiki/Epic_Games
+
+[5] Wikipedia, "Minecraft" - Minecraft is the best-selling video game in history with over 350 million copies sold. MAU 170M+. Marketplace had over $500 million in revenue by 2022. https://en.wikipedia.org/wiki/Minecraft

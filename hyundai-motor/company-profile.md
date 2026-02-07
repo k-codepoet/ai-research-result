@@ -10,7 +10,7 @@
 | **대표이사** | 장재훈 (사장) | 2020~ |
 | **설립일** | 1967년 12월 29일 | |
 | **본사** | 서울특별시 서초구 헌릉로 12 | |
-| **임직원** | 약 75,000명 | 국내 기준 |
+| **임직원** | 약 75,000명[1] | 국내 기준 |
 | **상장일** | 1974년 6월 28일 | KRX |
 
 ## 지배구조
@@ -54,7 +54,7 @@ graph TB
 | 2021 | 보스턴 다이나믹스 인수 |
 | 2022 | IONIQ 6 출시 |
 | 2023 | 미국 조지아 EV 전용공장 착공 |
-| 2024 | 현대차그룹 글로벌 3위 달성 |
+| 2024 | 현대차그룹 글로벌 3위 달성[2] |
 
 ## 사업 부문
 
@@ -101,7 +101,7 @@ graph TB
 ### 3. 수소 (FCEV)
 
 **현대차 수소 비전:**
-- 2030년 연 50만대 FCEV 생산 목표
+- 2030년 연 50만대 FCEV 생산 목표[5]
 - 상용차(트럭, 버스) 중심 확대
 - 수소 생태계 전반 투자
 
@@ -132,7 +132,7 @@ graph TB
 | 2021 | 117.6 | 6.7 | 5.7% | 5.7 |
 | 2022 | 142.5 | 9.8 | 6.9% | 8.0 |
 | 2023 | 162.7 | 15.1 | 9.3% | 12.3 |
-| 2024E | 165.0 | 15.5 | 9.4% | 12.0 |
+| 2024E | 175.2[3] | 14.2[3] | 8.1% | 13.2[3] |
 
 ### 밸류에이션 (2024E 기준)
 
@@ -148,10 +148,10 @@ graph TB
 
 | 주주 | 지분율 | 비고 |
 |------|--------|------|
-| 정의선 | 2.6% | 회장 |
-| 현대모비스 | 21.4% | 최대주주 |
-| 기아 | 5.0% | 계열사 |
-| 국민연금 | 8.5% | 기관 |
+| 정의선 | 2.73%[4] | 회장 |
+| 현대모비스 | 22.36%[4] | 최대주주 |
+| 기아 | 5.0%[출처 필요] | 계열사 (상호 지분 관계[6]) |
+| 국민연금 | 7.31%[4] | 기관 |
 | 외국인 | 35%+ | |
 
 ## ESG & 지속가능성
@@ -171,3 +171,17 @@ graph TB
 ---
 
 > 💡 **참고**: 현대자동차는 KOSPI 시가총액 상위 기업으로 공시 정보가 풍부함. IR 자료, 사업보고서 등 추가 참조 권장.
+
+## 출처
+
+[1] Wikipedia - Hyundai Motor Company, "The company employs approximately 75,000 people worldwide", https://en.wikipedia.org/wiki/Hyundai_Motor_Company
+
+[2] Wikipedia - List of manufacturers by motor vehicle production (2024), 현대차그룹 7,231,248대로 토요타, 폭스바겐에 이어 글로벌 3위, https://en.wikipedia.org/wiki/List_of_manufacturers_by_motor_vehicle_production
+
+[3] Wikipedia - Hyundai Motor Company Financial Data (2024), Revenue ₩175.23 trillion, Operating income ₩14.24 trillion, Net income ₩13.23 trillion, https://en.wikipedia.org/wiki/Hyundai_Motor_Company
+
+[4] Wikipedia - Hyundai Motor Company Ownership, Hyundai Mobis 22.36%, National Pension Service 7.31%, Chung Eui-sun 2.73%, https://en.wikipedia.org/wiki/Hyundai_Motor_Company
+
+[5] Hyundai Motor Group - FCEV Vision 2030, 현대차그룹이 2018년 12월 발표한 수소 비전에서 2030년까지 연 50만대 FCEV(수소연료전지차) 생산 능력 확보 목표 제시, https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-group-announces-fcev-vision-2030-0000016232
+
+[6] Wikipedia - Hyundai Motor Company, "the company owns 33.88 percent of Kia Corporation" - 현대차가 기아 지분 33.88% 보유, 상호 지분 관계 존재, https://en.wikipedia.org/wiki/Hyundai_Motor_Company

@@ -487,6 +487,8 @@ Supporting Metrics:
 | EBITDA | -$20M | -$10M | $20M | $70M | $150M |
 | Employees | 150 | 220 | 300 | 400 | 500 |
 
+*위 수치는 내부 추정치임*
+
 ### 밸류에이션 시나리오
 
 ```
@@ -494,7 +496,7 @@ Conservative (5x Revenue): $3B (Year 5)
 Base Case (8x Revenue): $4.8B (Year 5)
 Optimistic (12x Revenue): $7.2B (Year 5)
 
-비교: 로블록스 ~$30B (10x Revenue)
+비교: 로블록스 ~$52B (2026년 1월)[1]
 ```
 
 ---
@@ -523,3 +525,9 @@ Optimistic (12x Revenue): $7.2B (Year 5)
 ```
 
 **권고**: Year 1-2는 Option A, Year 3 이후 성과에 따라 Option B 검토
+
+## 출처
+
+[1] Backlinko, "Roblox User and Growth Stats" (2026년 1월 업데이트) - 로블록스 시가총액 $52.43B (2026.1월). https://backlinko.com/roblox-users
+
+*본 문서의 대부분 수치는 전략적 목표 및 내부 추정치입니다.*

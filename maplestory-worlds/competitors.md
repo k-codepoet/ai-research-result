@@ -32,21 +32,21 @@
 #### 기업 개요
 | 항목 | 내용 |
 |------|------|
-| 설립 | 2004년 |
-| 상장 | NYSE: RBLX (2021 DPO) |
-| 시가총액 | $25-40B |
-| 직원 수 | 2,500+ |
+| 설립 | 2004년[1] |
+| 상장 | NYSE: RBLX (2021 DPO)[1] |
+| 시가총액 | $52.43B (2026년 1월)[1] |
+| 직원 수 | 2,500+[2] |
 | 본사 | 미국 샌마테오 |
 
 #### 핵심 지표 (2024-2025)
 ```
-DAU: 70M+ (전년 대비 +15%)
-MAU: 200M+
-Bookings: $3.5B+
-크리에이터 수: 4M+
-크리에이터 지급: $800M+/년
-경험 수: 40M+
-평균 세션: 2.5시간
+DAU: 88.9M (Q3 2024), 151.5M (Q3 2025)[1]
+MAU: 380M (2024)[1]
+Bookings: $4.4B+ (2024 연간)[1]
+크리에이터 수: 3.5M+[1]
+크리에이터 지급: $922.82M (2024년)[1]
+활성 경험 수: 6.7M+[1]
+유저 연령: 56% 16세 미만[1]
 ```
 
 #### 비즈니스 모델
@@ -61,7 +61,7 @@ Bookings: $3.5B+
 └── 기타: 5%
 
 크리에이터 수익 배분:
-└── 크리에이터: ~30% (DevEx 환전 기준)
+└── 크리에이터: ~30% (DevEx 환전 기준)[1]
 └── 플랫폼: ~70%
 ```
 
@@ -74,7 +74,7 @@ Bookings: $3.5B+
 
 #### 약점
 - ❌ 성인 시장 확장 어려움
-- ❌ 콘텐츠 모더레이션 이슈
+- ❌ 콘텐츠 모더레이션 이슈[2]
 - ❌ 크리에이터 수익 배분 논란
 - ❌ 고품질 그래픽 한계
 - ❌ 아시아 시장 상대적 약세
@@ -100,19 +100,19 @@ Bookings: $3.5B+
 | 항목 | 내용 |
 |------|------|
 | 모회사 | Epic Games (비상장) |
-| 밸류에이션 | $30B+ |
-| 포트나이트 MAU | 100M+ |
-| UEFN 출시 | 2023년 |
-| 크리에이터 지급 | $100M+/년 |
+| 밸류에이션 | $32B (2022년 4월)[3] |
+| 포트나이트 플레이어 | 125M+ (2018년 6월까지)[4] |
+| UEFN 출시 | 2023년 3월[5] |
+| 크리에이터 지급 (첫 해) | $320M+ (20,000+ 개발자)[5] |
 
 #### 특징
 ```
 UEFN (Unreal Editor for Fortnite):
-├── 언리얼 엔진 기반
+├── 언리얼 엔진 5 기반[5]
 ├── 전문가급 도구
 ├── 고품질 그래픽
 ├── 포트나이트 생태계 통합
-└── Verse 스크립팅 언어
+└── Verse 스크립팅 언어[5]
 ```
 
 #### 비즈니스 모델
@@ -120,16 +120,16 @@ UEFN (Unreal Editor for Fortnite):
 크리에이터 수익:
 ├── 참여 기반 보상 (플레이 시간 비례)
 ├── 아이템 판매 수익 분배
-└── 커미션 프로그램
+└── Island Creator 프로그램
 
-특징: 크리에이터에게 40% 매출 배분 (업계 최고)
+특징: 크리에이터에게 40% 매출 배분[5]
 ```
 
 #### 강점
 - ✅ 언리얼 엔진 기술력
 - ✅ 업계 최고 그래픽 품질
 - ✅ 대형 IP 콜라보 (마블, 스타워즈 등)
-- ✅ 관대한 수익 배분
+- ✅ 관대한 수익 배분 (40%)
 - ✅ 10대-20대 코어 유저
 
 #### 약점
@@ -158,28 +158,29 @@ UEFN (Unreal Editor for Fortnite):
 #### 개요
 | 항목 | 내용 |
 |------|------|
-| 설립 | 2016년 |
-| 펀딩 | $300M+ |
-| 밸류에이션 | $1.5B (2021) |
-| 출시 | 2021년 |
+| 설립 | 2016년[6] |
+| 펀딩 | $145M+ (Series A-C)[6] |
+| 출시 | 2021년 4월 (Early Access)[6] |
 | 플랫폼 | PC, Epic Games Store |
+| 크리에이터 수익 배분 | 50%[6] |
 
 #### 현황
 ```
-DAU: 500K-1M (추정)
-크리에이터: 100K+
-게임 수: 50K+
+펀딩 내역:[6]
+├── 2019년 9월: $30M (Series B)
+├── 2020년 9월: $15M (Epic Games 주도)
+└── 2021년 3월: $100M (Series C)
 
-상태: 성장 정체, 로블록스 대비 미미
+상태: 2025년 9월 "Out of Time" 스탠드얼론 게임 출시[6]
 ```
 
 #### 강점
-- ✅ 성인 타겟
+- ✅ 성인 타겟[6]
 - ✅ 언리얼 기반 고품질
-- ✅ 무료 수익화 도구
+- ✅ 50% 크리에이터 수익 배분[6]
 
 #### 약점
-- ❌ 유저 기반 작음
+- ❌ 유저 기반 작음 [출처 필요]
 - ❌ 브랜드 인지도 부족
 - ❌ 차별화 부족
 
@@ -200,10 +201,10 @@ DAU: 500K-1M (추정)
 #### 개요
 | 항목 | 내용 |
 |------|------|
-| 소유사 | Microsoft (2014 인수, $2.5B) |
-| MAU | 170M+ |
-| 총 판매 | 300M+ |
-| 마켓플레이스 | $500M+/년 |
+| 소유사 | Microsoft (2014 인수, $2.5B)[7] |
+| MAU | 170M+[7] |
+| 총 판매 | 350M+[7] |
+| 마켓플레이스 | $500M+/년 (2022년까지)[7] |
 
 #### UGC 특성
 ```
@@ -248,7 +249,7 @@ DAU: 500K-1M (추정)
 
 | 항목 | 로블록스 | 포트나이트 | 코어 | 메이플월드 |
 |------|---------|-----------|------|-----------|
-| 크리에이터 몫 | 30% | 40% | 50% | **70%** (추정) |
+| 크리에이터 몫 | ~30%[1] | 40%[5] | 50%[6] | **70%** (추정) |
 | 최소 환전 | $1,000+ | - | $50 | 미정 |
 | 구독 모델 | ✅ Premium | ❌ | ✅ | ⚠️ 검토중 |
 | 광고 수익 | ✅ | ⚠️ | ❌ | ⚠️ 검토중 |
@@ -339,3 +340,19 @@ DAU: 500K-1M (추정)
 | 3 | Unity | 개발 도구 UX |
 | 4 | Steam | 디스커버리 알고리즘 |
 | 5 | TikTok | 숏폼 콘텐츠 연계 |
+
+## 출처
+
+[1] Backlinko, "Roblox User and Growth Stats" (2026년 1월 업데이트) - Roblox 설립 2004년, 2021 DPO, Q3 2024 DAU 88.9M, Q3 2025 DAU 151.5M, MAU 380M (2024), 시가총액 $52.43B (2026.1), 크리에이터 3.5M, 2024년 크리에이터 지급 $922.82M, 활성 경험 6.7M, 크리에이터 배분 ~30%, 56% 유저 16세 미만. https://backlinko.com/roblox-users
+
+[2] Wikipedia, "Roblox" - Roblox has been criticized for content moderation issues. 직원 수 및 운영 정보. https://en.wikipedia.org/wiki/Roblox
+
+[3] Wikipedia, "Epic Games" - As of April 2022, Epic Games has a $32 billion equity valuation. https://en.wikipedia.org/wiki/Epic_Games
+
+[4] Wikipedia, "Fortnite" - By June 2018 reached 125 million players. https://en.wikipedia.org/wiki/Fortnite
+
+[5] Wikipedia, "Unreal Editor for Fortnite" - UEFN launched March 2023, uses Unreal Engine 5 and Verse language. In the first year, the Island Creator program has paid an estimated $320 million to over 20,000 developers. Creators earn 40% from Island Creator program. https://en.wikipedia.org/wiki/Unreal_Editor_for_Fortnite
+
+[6] Wikipedia, "Core (video game)" - Manticore Games founded 2016, $30M Series B (2019), $15M Epic-led (2020), $100M Series C (2021). Early Access April 2021. 50% creator revenue share (ScreenRant). https://en.wikipedia.org/wiki/Core_(video_game)
+
+[7] Wikipedia, "Minecraft" - Microsoft acquired Mojang in 2014 for $2.5 billion. Minecraft is the best-selling video game with over 350 million copies sold. MAU 170M+. Marketplace over $500 million revenue by 2022. https://en.wikipedia.org/wiki/Minecraft

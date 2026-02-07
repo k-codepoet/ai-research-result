@@ -33,7 +33,7 @@
 1. **메이플스토리 IP 활용**: 20년간 축적된 캐릭터, 몬스터, 맵, 사운드
 2. **2D 픽셀 아트 특화**: 로블록스(3D)와 차별화
 3. **낮은 진입 장벽**: 코딩 없이 드래그앤드롭 방식
-4. **노스탤지어 팬덤**: 메이플 유저 수억 명의 잠재 고객
+4. **노스탤지어 팬덤**: 메이플 등록 유저 1.8억 명+의 잠재 고객[1]
 
 ## 플랫폼 구성 요소
 
@@ -90,7 +90,7 @@
 크리에이터 수익 = 총 판매액 × 70%
 플랫폼 수수료 = 총 판매액 × 30%
 
-(로블록스 대비 유리: 로블록스는 약 30% 크리에이터 몫)
+(로블록스 대비 유리: 로블록스는 DevEx 환전 기준 약 30% 크리에이터 몫)[2]
 ```
 
 ## 현재 상태 평가 (2025-2026)
@@ -191,3 +191,9 @@ MapleStory Worlds Inc. (가정)
 - 크리에이터 유치 경쟁
 - 부적절한 콘텐츠 관리 리스크
 - 메이플 본게임과의 카니발라이제이션
+
+## 출처
+
+[1] Wikipedia, "MapleStory" - As of 2020, the game has reached over 180 million registered users worldwide. https://en.wikipedia.org/wiki/MapleStory
+
+[2] Backlinko, "Roblox User and Growth Stats" (2026년 1월 업데이트) - 로블록스 크리에이터는 DevEx 환전 기준 약 30%의 수익을 가져감. 크리에이터 지급액 2024년 $922.82M. https://backlinko.com/roblox-users
